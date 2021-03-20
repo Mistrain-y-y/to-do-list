@@ -1,0 +1,8 @@
+li {
+  padding: 10px;
+  list-style: none;
+}
+.delete-btn {
+  float: right;
+  width: 50px;
+}
